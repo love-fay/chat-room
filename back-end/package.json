@@ -1,0 +1,19 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "chatRoom",
+  "main": "chatRoom.js",
+  "dependencies": {
+    "express": "^4.15.3",
+    "path": "^0.12.7",
+    "socket.io": "^2.0.3"
+  },
+  "repository": "https://github.com/love-fay/chat-room.git",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node chatRoom.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
